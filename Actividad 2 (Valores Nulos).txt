@@ -1,0 +1,1 @@
+se ultizo el metedo de sustitucion por el promedio, ya que me parecio facil y que no movia tantos los datos, ademas al todos ser numericos nos daba esta posibilidad, pero cualquiera de los vistos en clase pudo funcionar de la misma manera ya sea el de llenar con el dato anterior o el siguiente, o con un dato especifico.
